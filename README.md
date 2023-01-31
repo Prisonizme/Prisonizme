@@ -9,7 +9,7 @@ class Prisonizme:
 def  __social__(self):
  self.gtb = "https://github.com/Prisonizme"
  self.dsc = "Prisonizme#1337"
- self.tlg = "https://discord.gg/sDBYUhg2xh"
+ self.tlg = "https://discord.gg/EWhd2fmd"
   
  ┌──(Prisonizme@root)-[~/]
  └─$
